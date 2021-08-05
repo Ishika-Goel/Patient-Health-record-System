@@ -74,7 +74,7 @@ The ‘Patient Health Record System’ is based on the database, Object-oriented
    
 	 	• Use-Case 
    
-	  • Dynamic modelling
+	        • Dynamic modelling
    
 •	Class modelling diagram are wisely used to describe the types of  object in a system and their relationship.
 
