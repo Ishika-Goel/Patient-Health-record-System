@@ -25,8 +25,39 @@ Electronic Patient health record system co-ordinate the storage and retrieval of
 # PROBLEM STATEMENT
 •	One of the major problem in the traditional paper based system is time and space wastage.
 
+•	In order to increase the efficiency of managing patient details and provide the securable environment for a long time period, we chose this project.
 
-•	In order to increase the efficiency of managing patient details and provide the securable environment for a long time period, we chose this project
+# PATIENT HEALTH RECORD SYSTEM
+•	A Patient health record system is an organized collection of patient and population stored health information in digital composition.
+
+•	These records can be shared over different health care settings. Records can be shared through network-connected, enterprise-wide information systems or other information networks and exchanges. 
+
+•	These systems may include a range of data, including demographics, medical history, medication and allergies, immunization status, laboratory test results, radiology images, vital signs, personal statistics like age and weight, and billing information.
+
+# OBJECTIVES
+•		To computerize all details regarding patient and hospital details.Scheduling the appointment of patient with doctors to make it convenient for both.
+
+•	Scheduling the services of specialized doctors and emergency properly so that facilities provided by hospital are fully utilized in effective and efficient manner.
+The information of the patients should be kept up to date and there record should be kept in the system for historical purposes.
+
+# METHODOLOGY
+The ‘Patient Health Record System’ is based on the database, Object-oriented programming language and networking techniques. MySQL is used in areas where keeping records in the database is necessary. This system uses C++ as the front-end software which is an object-oriented programming language technique and has connectivity with MYSQL, the back end software.
+
+ Analysis:
+ 
+•System planning and initial investigation.
+
+•Information gathering
+
+•Applying analysis tool for structured analysis
+
+•Feasibility study
+
+•Cost/benefit analysis
+
+
+
+
 
 
 
