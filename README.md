@@ -16,6 +16,20 @@ Patient Health Record System is designed specifically to manage the records care
 # MOTIVATION
 The motivation behind patient health record system is to provide a complete and accurate description of the patient's medical history. This includes medical conditions, diagnoses, the care and treatment you provide, and results of such treatments.well-documented medical record reflects all clinically relevant aspects of the patient’s health and serves as an effective communication vehicle.
 
+# LITERATURE REVIEW
+As we have known, timely and accurate information is very vital to the success and growth of any organization especially in the health sector. The right information at the right time and in the right place helps to make a better management decision. Hence, “better information will lead to better treatment.”
+Research shows that keeping records of clients who visit hospital facilities is one of the most studies of hospital irrespective of the capacities and the nature of activities that take place in such health facilities. 
+Record keeping is a systematic way of entering, processing, analyzing, distributing, storing and retrieving information for an ultimate goal.
+Electronic Patient health record system co-ordinate the storage and retrieval of individual record with aid of computer.
+
+# PROBLEM STATEMENT
+•	One of the major problem in the traditional paper based system is time and space wastage. 
+•	In order to increase the efficiency of managing patient details and provide the securable environment for a long time period, we chose this project
+
+
+
+
+
 
 
 
