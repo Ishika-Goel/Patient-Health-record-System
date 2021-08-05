@@ -26,7 +26,6 @@ Electronic Patient health record system co-ordinate the storage and retrieval of
 •	One of the major problem in the traditional paper based system is time and space wastage.
 
 
-
 •	In order to increase the efficiency of managing patient details and provide the securable environment for a long time period, we chose this project
 
 
