@@ -55,6 +55,10 @@ The ‘Patient Health Record System’ is based on the database, Object-oriented
 
 •Cost/benefit analysis
 
+# DOCTOR FLOWCHART
+
+![Screenshot (1796)](https://user-images.githubusercontent.com/46298449/128369481-67fc786c-1ee4-4dca-bcff-2b00cf9a0858.png)
+
 
 
 
