@@ -60,6 +60,44 @@ The ‘Patient Health Record System’ is based on the database, Object-oriented
 ![Screenshot (1796)](https://user-images.githubusercontent.com/46298449/128369481-67fc786c-1ee4-4dca-bcff-2b00cf9a0858.png)
 
 
+# RECEPTIONIST FLOWCHART
+
+![Screenshot (1798)](https://user-images.githubusercontent.com/46298449/128370043-14654665-9eef-45a7-add8-26fb76a0655a.png)
+
+
+![Screenshot (1800)](https://user-images.githubusercontent.com/46298449/128370476-fa7aa8c3-b4c3-4a0f-adb5-9d5164a92b7b.png)
+
+# OBJECT-ORIENTED ANALYSIS
+•	The main objective of object oriented analysis to describe what the new system will do using the following major steps;
+
+ 		• Class modelling 
+   
+	 	• Use-Case 
+   
+	  • Dynamic modelling
+   
+•	Class modelling diagram are wisely used to describe the types of  object in a system and their relationship.
+
+•	Use-case modelling This is a set of scenario that describe an interaction between a system and a user .The main component of the use case diagram are use case and actors. 
+  It uses diagram to displays the relationship among actors and use case. 
+  
+ # DATABASE DESIGN
+ 
+•	The database had to be designed in a particular manner, as one of the core elements of any management information system. The entities about which data is required include the Patient, Staff, Appointment, Prescription, Departments, Patient Diagnosis History, Patient Family Medical History, Patient Medical History, Admission, Wards.
+
+•	This process started at the analysis phase of the project, to identify the necessary entities and relations, and their attributes, leading to determination of tables required for the database and the associated field names, format and length of each table.
+
+# CONCLUSION
+•	Computers are finding their way into every business, industry and research activity today. The use of computers is diverse, such as in entertainment, education, problem solving, research, personal management, among others. In hospitals, the process of maintaining the record of patients and employees working in the hospital, calculating bills, and so on, requires processing and record keeping in different departments.
+
+•	Keeping in view a strong need for managing the various important information fast and efficiently, Patient Information Management System (PIMS) has been designed and developed. Proper analysis and assessment of the developed system indicates an efficient, usable and reliable records-management system, which adequately meets the minimum expectations that were set for it initially. 
+
+•	The application scope, though, could be widened to accommodate entire hospital records management. The system can also be further enhanced so that the patients themselves can be able to access their information in a secure manner for the purpose of greater doctor-patient transparency.
+
+
+
+
+
 
 
 
