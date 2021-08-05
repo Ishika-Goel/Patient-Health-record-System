@@ -27,7 +27,6 @@ Electronic Patient health record system co-ordinate the storage and retrieval of
 
 
 
-
 •	In order to increase the efficiency of managing patient details and provide the securable environment for a long time period, we chose this project
 
 
